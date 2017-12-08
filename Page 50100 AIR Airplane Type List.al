@@ -47,7 +47,7 @@ page 50100 "AIR Airplane Type List"
 
                 trigger OnAction();
                 var
-                //ICAOFunctions : Codeunit "AIR ICAO Functions"
+                ///ICAOFunctions : Codeunit "AIR ICAO Functions"
                 begin
                     Message('TODO: Action');
                 end;
